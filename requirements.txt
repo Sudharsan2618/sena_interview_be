@@ -4,3 +4,4 @@ Flask-Cors
 openai
 requests
 tavily-python
+gunicorn
